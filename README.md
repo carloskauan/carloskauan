@@ -43,7 +43,10 @@
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
+</div>
+  
 </div>
 <hr>
   <div> 
