@@ -18,7 +18,7 @@
 - 😄 Pronouns: Him/His
 </p> 
 <p> 
-- ⚡ Fun fact: Until the next year I programmed by cell phone
+- ⚡ Fun fact: Until last year I programmed by cell phone
 </p>
 
 ##
