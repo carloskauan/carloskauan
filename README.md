@@ -1,6 +1,6 @@
 
 <h1>
-  Hello, my name is Carlos Kauan but I'm known as Dark<h1>
+  Hello, my name is Carlos Kauan<h1>
 </h1>
   
 <p>
