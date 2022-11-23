@@ -13,10 +13,6 @@
 </p> 
 <p>
 - 📫 How to reach me: code.line.dark@gmail.com
-</p> 
-<p> 
-- ⚡ Fun fact: Until last year I programmed by cell phone
-</p>
 
 ##
 <br>
